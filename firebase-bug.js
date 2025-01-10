@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the project setup isn't correctly configured. This includes issues with the `google-services.json` file, incorrect Firebase initialization, or missing dependencies.
